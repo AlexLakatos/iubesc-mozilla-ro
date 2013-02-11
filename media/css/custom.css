@@ -1,0 +1,12 @@
+#mosaic ul {
+  list-style-type: none;
+  margin: 0;
+}
+
+#mosaic li {
+  float: left;
+}
+
+#slideshow {
+  clear: left;
+}
