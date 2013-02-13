@@ -5,6 +5,8 @@
 
 #mosaic li {
   float: left;
+  width: 102px;
+  height: 102px;
 }
 
 #slideshow {
