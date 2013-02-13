@@ -10,3 +10,8 @@
 #slideshow {
   clear: left;
 }
+
+.judge a {
+    text-align: center;
+    text-decoration: none;
+}
